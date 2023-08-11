@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flutter, dart, javascript**
 
-- 📫 How to reach me **subash.neupane@paywellcorp.com**
+- 📫 How to reach me **works@nsubash.com.np**
 
 - ⚡ Fun fact **I am a Mechanical Engineer**
 
